@@ -4,7 +4,6 @@ author: "Tiffany Timbers & Jordan Bourak"
 format: html
 editor: source
 bibliography: references.bib
-
 execute:
     echo: false
 ---
@@ -70,5 +69,6 @@ Additionally, note that in @tbl-sd we consider the sample standard deviation of 
 ![Horse populations for the province with the largest standard deviation](../results/horse_pops_plot_largest_sd.png){width=60% #fig-pop-std}
 
 In @fig-pop-std we zoom in and look at the province of `{python} largest_sd`, which had the largest spread of values in terms of standard deviation.
+
 
 ## References
